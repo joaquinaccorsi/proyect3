@@ -1,0 +1,10 @@
+nav {background-color: black;}
+.masthead {background-color:white; background-image: url(IMG/header\ background.jpg);padding-top: 500px;}
+.masthead h1 {color:white;background-color: yellow;text-align: center;}
+.masthead h2 {color:white;background-color: yellow;text-align: center;}
+
+
+footer div {background-color: black;}
+footer p {color: white;}
+footer h6 {color: white;}
+footer i {color: white;}
